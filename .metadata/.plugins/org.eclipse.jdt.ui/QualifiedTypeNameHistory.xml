@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.chainsys.unitester.Calculator"/>
-    <fullyQualifiedTypeName name="com.chainsys.unitester.CalculateTester"/>
-    <fullyQualifiedTypeName name="com.chainsys.variables.BankDemo"/>
-    <fullyQualifiedTypeName name="com.chainsys.classandmethods.Car"/>
-    <fullyQualifiedTypeName name="com.chainsys.unitester.CarTester"/>
-    <fullyQualifiedTypeName name="com.chainsys.classandmethods.Book"/>
-    <fullyQualifiedTypeName name="com.chainsys.unitester.BookTest"/>
-    <fullyQualifiedTypeName name="com.chainsys.strings.StringBuilderDemo"/>
     <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="com.chainsys.datelessons.WorkingWithDate"/>
@@ -19,7 +11,6 @@
     <fullyQualifiedTypeName name="encapsulation.Customer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="com.chainsys.classandmethods.Employee"/>
@@ -43,4 +34,30 @@
     <fullyQualifiedTypeName name="java.text.Format.Field"/>
     <fullyQualifiedTypeName name="java.text.DateFormat.Field"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="com.syschain.reflectionsactor.Actor.Emp"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.pojo.Employee"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.chainsys.miniproject.commonutil.InvalidInputDataException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletContextListener"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.ServletContextEvent"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSessionListener"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSessionEvent"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionEvent"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextEvent"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.User"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.jni.User"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionBindingEvent"/>
+    <fullyQualifiedTypeName name="javax.servlet.HttpConstraintElement"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 </qualifiedTypeNameHistroy>
